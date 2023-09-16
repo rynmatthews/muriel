@@ -4,5 +4,11 @@
 Lead developer Kathryn Matthews
 Assisted bt Warren Matthews
 
+def main():
+    print("Happy Birthday to you!")
+    print("Happy Birthday to you!")
+    print("Happy Birthday, dear father....")
+    print("Happy Birthday to you!")
+main()
 
 
